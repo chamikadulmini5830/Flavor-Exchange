@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Bolognese",
+    "ingredients": "Spaghetti, ground beef, tomato sauce, onions, garlic, herbs",
+    "instructions": "Cook spaghetti. Prepare sauce with beef and tomato sauce. Mix together and serve.",
+    "cookingTime": 30,
+    "rating": 4,
+    "imageUrl": "assets/Spaghetti Bolognese.jpg",
+    "author": "chefJohn"
+  },
+  {
+    "id": 2,
+    "title": "Chicken Curry",
+    "ingredients": "Chicken, curry powder, coconut milk, onions, garlic, ginger",
+    "instructions": "Cook chicken, add spices and coconut milk. Simmer until done. Serve with rice.",
+    "cookingTime": 40,
+    "rating": 5,
+    "imageUrl": "assets/chicken_curry.jpg",
+    "author": "chefJane"
+  },
+  {
+    "id": 3,
+    "title": "Fish Curry",
+    "ingredients": "Fish, curry powder, coconut milk, onions, garlic, ginger",
+    "instructions": "Cook fish, add spices and coconut milk. Simmer until done. Serve with rice.",
+    "cookingTime": 30,
+    "rating": 4,
+    "imageUrl": "assets/fiish_curry.jpg",
+    "author": "chefkumari"
+  }
+]
